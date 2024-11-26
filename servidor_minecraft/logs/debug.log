@@ -665,3 +665,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Nov2024 23:13:15.254] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
 [26Nov2024 23:13:37.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Nov2024 23:13:37.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Nov2024 23:18:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Nov2024 23:18:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Nov2024 23:18:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Nov2024 23:18:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Nov2024 23:18:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Nov2024 23:18:30.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Nov2024 23:18:30.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Nov2024 23:18:30.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Nov2024 23:18:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Nov2024 23:18:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Nov2024 23:18:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Nov2024 23:18:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Nov2024 23:18:30.406] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
