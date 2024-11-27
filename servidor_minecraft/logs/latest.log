@@ -4283,3 +4283,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 16:17:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Ice and Fire]
 [27Nov2024 16:17:07.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [27Nov2024 16:17:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Haunting History]
+[27Nov2024 16:22:27.712] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[27Nov2024 16:22:27.760] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[27Nov2024 16:25:50.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: Timed out
+[27Nov2024 16:25:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
