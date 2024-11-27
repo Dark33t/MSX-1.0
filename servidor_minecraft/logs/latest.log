@@ -1289,3 +1289,18 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [27Nov2024 15:04:51.501] [Server thread/INFO] [Jade/]: Syncing config to Huequito (b7024c10-8733-30e5-898b-96cdb79c2da3)
 [27Nov2024 15:05:02.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11698ms or 233 ticks behind
 [27Nov2024 15:05:03.339] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Mob from class divinerpg.entities.vanilla.overworld.EntityAequorea
+[27Nov2024 15:13:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Acquire Hardware]
+[27Nov2024 15:13:58.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Isn't It Iron Pick]
+[27Nov2024 15:15:54.911] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern]] from pos BlockPos{x=715, y=68, z=923}
+[27Nov2024 15:17:17.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=772, y=-39, z=585}
+[27Nov2024 15:18:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Fire Dragon
+[27Nov2024 15:18:49.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Set own game mode to Creative Mode]
+[27Nov2024 15:18:54.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to 597.500000, 67.500000, 849.500000]
+[27Nov2024 15:19:44.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: You logged in from another location
+[27Nov2024 15:19:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
+[27Nov2024 15:19:44.179] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Nov2024 15:19:44.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Huequito[/[::1]:49678] logged in with entity id 4985 at (535.9839179616002, 80.73288560840197, 886.7469358118763)
+[27Nov2024 15:19:44.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito joined the game
+[27Nov2024 15:19:44.320] [Server thread/INFO] [Jade/]: Syncing config to Huequito (b7024c10-8733-30e5-898b-96cdb79c2da3)
+[27Nov2024 15:20:14.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: Timed out
+[27Nov2024 15:20:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
