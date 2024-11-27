@@ -1285,3 +1285,19 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [27Nov2024 14:05:17.733] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [27Nov2024 14:05:17.771] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [27Nov2024 14:05:31.606] [Server thread/WARN] [ModernFix/]: Dedicated server took 75.715 seconds to load
+[27Nov2024 14:36:30.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Huequito[/[::1]:53114] logged in with entity id 108 at (480.44878441178247, 63.03104150205048, 694.435948262767)
+[27Nov2024 14:36:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito joined the game
+[27Nov2024 14:36:30.722] [Server thread/INFO] [Jade/]: Syncing config to Huequito (b7024c10-8733-30e5-898b-96cdb79c2da3)
+[27Nov2024 14:36:43.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12634ms or 252 ticks behind
+[27Nov2024 14:37:00.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=608, y=-14, z=717}
+[27Nov2024 14:37:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Direbeast
+[27Nov2024 14:37:48.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=171, y=15, z=228}
+[27Nov2024 14:38:32.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Set the weather to clear]
+[27Nov2024 14:38:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to 480.500000, 61.500000, 693.500000]
+[27Nov2024 14:38:44.655] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=654, y=-48, z=725}
+[27Nov2024 14:38:44.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=655, y=-48, z=725}
+[27Nov2024 14:39:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Direbeast
+[27Nov2024 14:39:05.438] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=665, y=8, z=832}
+[27Nov2024 14:39:05.438] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=665, y=8, z=834}
+[27Nov2024 14:39:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to 472.500000, 61.500000, 695.500000]
+[27Nov2024 14:39:48.111] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=280, y=-40, z=473}
