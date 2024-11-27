@@ -4271,3 +4271,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 15:59:33.300] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [27Nov2024 15:59:33.300] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/MSX-1.0/servidor_minecraft/./config/infernalmobs.cfg
 [27Nov2024 15:59:34.716] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 1743 ~ 1632 after 19 tries
+[27Nov2024 16:07:26.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@e9df163[id=<null>,name=Huequito,properties={},legacy=false] (/[::1]:46202): Took too long to log in
+[27Nov2024 16:07:26.631] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e9df163[id=<null>,name=Huequito,properties={},legacy=false] (/[::1]:46202) lost connection: Took too long to log in
+[27Nov2024 16:07:26.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Nov2024 16:17:04.870] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Nov2024 16:17:04.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Huequito[/[::1]:33724] logged in with entity id 357 at (-6.5, 96.0, -4.5)
+[27Nov2024 16:17:05.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito joined the game
+[27Nov2024 16:17:05.769] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Mob from class divinerpg.entities.vanilla.overworld.EntityAequorea
+[27Nov2024 16:17:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Paranormal Pleistocene]
+[27Nov2024 16:17:05.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has completed the challenge [The Undead]
+[27Nov2024 16:17:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Ice and Fire]
+[27Nov2024 16:17:07.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[27Nov2024 16:17:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Haunting History]
