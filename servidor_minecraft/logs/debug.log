@@ -11134,3 +11134,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [27Nov2024 15:19:44.320] [Server thread/INFO] [Jade/]: Syncing config to Huequito (b7024c10-8733-30e5-898b-96cdb79c2da3)
 [27Nov2024 15:20:14.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: Timed out
 [27Nov2024 15:20:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
+[27Nov2024 15:24:41.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 15:24:41.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 15:29:41.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 15:29:41.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
