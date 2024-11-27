@@ -17,47 +17,17 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
-    },
-    "done": false
-  },
   "paranormal_pleistocene:primal_pit_advancement": {
     "criteria": {
       "primal_pit_advancement_0": "2024-11-27 16:17:05 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-11-27 16:17:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -95,24 +65,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-11-27 16:17:05 +0000"
@@ -130,12 +82,6 @@
       "has_recipe": "2024-11-27 16:17:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
-    },
-    "done": false
   },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
@@ -155,39 +101,9 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-11-27 16:19:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2024-11-27 16:17:05 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
-  },
-  "paranormal_pleistocene:biome_advancement": {
-    "criteria": {
-      "biome_advancement_0": "2024-11-27 16:17:08 +0000"
     },
     "done": true
   },
@@ -208,18 +124,6 @@
       "custom_test_name": "2024-11-27 16:17:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
-    },
-    "done": false
   },
   "legendary_monsters:nether_root": {
     "criteria": {
@@ -251,21 +155,136 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
+      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-11-27 16:25:35 +0000"
+      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
+    },
+    "done": false
+  },
+  "paranormal_pleistocene:biome_advancement": {
+    "criteria": {
+      "biome_advancement_0": "2024-11-27 16:17:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:17:08 +0000"
     },
     "done": false
   },
   "divinerpg:overworld/root": {
     "criteria": {
       "divinerpg": "2024-11-27 16:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-11-27 17:31:33 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-27 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 17:35:21 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-11-27 17:27:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-11-27 17:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-27 17:27:13 +0000"
     },
     "done": true
   },
