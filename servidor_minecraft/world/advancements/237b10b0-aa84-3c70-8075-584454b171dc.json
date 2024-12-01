@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-01 23:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-01 22:38:37 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-01 23:15:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 21:33:03 +0000"
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-01 23:05:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2024-12-01 21:42:58 +0000"
@@ -386,6 +404,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 21:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-01 23:09:50 +0000"
     },
     "done": true
   },
@@ -704,6 +728,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 21:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-01 23:05:40 +0000"
     },
     "done": true
   },
@@ -1884,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-01 23:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 21:35:49 +0000"
@@ -2310,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-01 23:09:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2024-12-01 21:33:03 +0000"
@@ -2395,6 +2437,7 @@
       "minecraft:snowy_plains": "2024-12-01 21:29:47 +0000",
       "minecraft:stony_shore": "2024-12-01 21:31:13 +0000",
       "minecraft:snowy_taiga": "2024-12-01 21:41:21 +0000",
+      "minecraft:cold_ocean": "2024-12-01 23:08:53 +0000",
       "minecraft:deep_cold_ocean": "2024-12-01 22:37:04 +0000",
       "minecraft:frozen_ocean": "2024-12-01 21:33:37 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-01 21:49:08 +0000",

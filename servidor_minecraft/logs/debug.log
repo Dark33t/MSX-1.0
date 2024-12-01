@@ -3936,3 +3936,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:01:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Isn't It Iron Pick]
 [01Dec2024 23:03:35.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 23:03:35.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 23:08:35.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 23:08:35.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 23:10:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 23:10:28.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:13:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:13:35.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 23:13:35.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 23:15:42.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has completed the challenge [Free Willy]
+[01Dec2024 23:15:52.890] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-663, y=63, z=1949}
+[01Dec2024 23:16:58.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[01Dec2024 23:18:35.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 23:18:35.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
