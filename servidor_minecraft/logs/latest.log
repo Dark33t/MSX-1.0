@@ -862,3 +862,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 22:55:24.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of matty088) moved too quickly! 27.78192927014998,0.0,5.734890273372457
 [01Dec2024 22:55:24.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of matty088) moved too quickly! 27.534094907622208,0.0,5.707021684815118
 [01Dec2024 22:56:33.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Dec2024 22:59:28.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 23:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Isn't It Iron Pick]
+[01Dec2024 23:01:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Isn't It Iron Pick]

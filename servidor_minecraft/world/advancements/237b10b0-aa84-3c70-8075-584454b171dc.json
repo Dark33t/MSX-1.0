@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-01 23:01:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2024-12-01 21:33:03 +0000"
@@ -2496,6 +2502,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-01 22:46:56 +0000",
       "cooked_mutton": "2024-12-01 22:38:17 +0000",
+      "cooked_cod": "2024-12-01 22:58:29 +0000",
       "bread": "2024-12-01 21:47:29 +0000",
       "carrot": "2024-12-01 22:00:56 +0000"
     },
