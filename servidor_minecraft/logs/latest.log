@@ -871,3 +871,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:15:42.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has completed the challenge [Free Willy]
 [01Dec2024 23:15:52.890] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-663, y=63, z=1949}
 [01Dec2024 23:16:58.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[01Dec2024 23:20:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:22:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzzz
+[01Dec2024 23:22:09.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Man From The Fog
+[01Dec2024 23:22:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:24:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:26:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
