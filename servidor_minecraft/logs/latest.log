@@ -281,3 +281,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 21:47:43.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Dec2024 21:47:43.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Dec2024 21:47:43.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:48:39.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Horror of the Depths]
+[01Dec2024 21:49:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 drowned
+[01Dec2024 21:50:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:50:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:51:56.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
+[01Dec2024 21:51:56.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 moved too quickly! -9.17023072675238,0.0,4.068587008663485
+[01Dec2024 21:52:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Acquire Hardware]
+[01Dec2024 21:52:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Diamonds!]
+[01Dec2024 21:53:20.293] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-600, y=79, z=542}
+[01Dec2024 21:56:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 21:58:01.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 22:03:55.340] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-489, y=65, z=874}
+[01Dec2024 22:07:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 22:07:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:07:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Acquire Hardware]
