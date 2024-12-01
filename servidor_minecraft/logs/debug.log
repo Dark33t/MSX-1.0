@@ -3342,3 +3342,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 22:07:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
 [01Dec2024 22:07:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
 [01Dec2024 22:07:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Acquire Hardware]
+[01Dec2024 22:08:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:08:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:08:28.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Not Today, Thank You]
+[01Dec2024 22:08:33.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:08:33.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:08:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:08:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:08:55.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was impaled by Drowned
+[01Dec2024 22:09:21.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was impaled by Drowned
+[01Dec2024 22:09:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 22:09:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Monster Hunter]
+[01Dec2024 22:10:01.840] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-550, y=78, z=1162}
+[01Dec2024 22:11:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Diamonds!]
+[01Dec2024 22:13:32.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:13:33.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:16:13.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
