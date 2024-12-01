@@ -3958,3 +3958,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:26:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
 [01Dec2024 23:28:35.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 23:28:35.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 23:29:42.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 lost connection: Timed out
+[01Dec2024 23:29:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 left the game
+[01Dec2024 23:29:51.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: Timed out
+[01Dec2024 23:29:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
+[01Dec2024 23:33:35.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 23:33:35.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 23:38:35.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 23:38:35.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

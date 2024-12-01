@@ -877,3 +877,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:22:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
 [01Dec2024 23:24:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
 [01Dec2024 23:26:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 23:29:42.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 lost connection: Timed out
+[01Dec2024 23:29:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 left the game
+[01Dec2024 23:29:51.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Huequito lost connection: Timed out
+[01Dec2024 23:29:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito left the game
