@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-01 22:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-01 21:53:16 +0000"
@@ -1524,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-01 22:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 22:01:54 +0000"
@@ -1916,6 +1928,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-01 22:50:47 +0000",
       "minecraft:frozen_river": "2024-12-01 21:32:25 +0000",
       "minecraft:snowy_plains": "2024-12-01 21:29:55 +0000",
       "minecraft:stony_shore": "2024-12-01 21:32:36 +0000",
@@ -1969,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-01 22:46:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2024-12-01 21:38:07 +0000"
@@ -1996,6 +2015,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-01 22:17:44 +0000",
+      "cooked_rabbit": "2024-12-01 22:46:24 +0000",
       "carrot": "2024-12-01 21:51:26 +0000"
     },
     "done": false

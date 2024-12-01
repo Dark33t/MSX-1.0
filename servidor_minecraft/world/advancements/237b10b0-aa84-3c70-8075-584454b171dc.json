@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-01 22:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-01 21:35:49 +0000"
@@ -2378,6 +2384,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-01 22:50:46 +0000",
+      "minecraft:frozen_river": "2024-12-01 22:50:32 +0000",
       "minecraft:snowy_plains": "2024-12-01 21:29:47 +0000",
       "minecraft:stony_shore": "2024-12-01 21:31:13 +0000",
       "minecraft:snowy_taiga": "2024-12-01 21:41:21 +0000",
@@ -2486,6 +2494,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-01 22:46:56 +0000",
       "cooked_mutton": "2024-12-01 22:38:17 +0000",
       "bread": "2024-12-01 21:47:29 +0000",
       "carrot": "2024-12-01 22:00:56 +0000"
