@@ -214,3 +214,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 21:36:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
 [01Dec2024 21:37:05.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Stone Age]
 [01Dec2024 21:37:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Getting an Upgrade]
+[01Dec2024 21:38:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:38:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Getting an Upgrade]
+[01Dec2024 21:38:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito has made the advancement [Sweet Dreams]
+[01Dec2024 21:38:49.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 21:39:09.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:39:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Man From The Fog
+[01Dec2024 21:40:15.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3914, l='ServerLevel[world]', x=-771.70, y=73.00, z=374.70] died, message: 'Fisherman was slain by Revenant'
+[01Dec2024 21:40:34.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was squashed by a falling anvil
+[01Dec2024 21:40:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was squashed by a falling anvil
+[01Dec2024 21:40:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 21:41:58.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by The Moonflower
+[01Dec2024 21:42:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by The Moonflower
+[01Dec2024 21:42:22.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 21:42:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Vampire
+[01Dec2024 21:42:49.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3997, l='ServerLevel[world]', x=-808.97, y=79.00, z=323.53] died, message: 'Unemployed liquified to Fanta juice'
+[01Dec2024 21:43:00.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was shot by Bonescaller
+[01Dec2024 21:43:07.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 21:43:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Fallen Chaos Knight
+[01Dec2024 21:43:34.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Vampire
+[01Dec2024 21:43:39.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:43:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Dark Metallurgy]
+[01Dec2024 21:43:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 21:43:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by The Hunter
+[01Dec2024 21:44:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Huequito]
+[01Dec2024 21:45:21.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 21:45:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Sweet Dreams]
+[01Dec2024 21:45:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Huequito> zzz
+[01Dec2024 21:45:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 21:47:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Huequito was slain by Glutton Fish
+[01Dec2024 21:47:14.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Huequito: Teleported Huequito to matty088]
+[01Dec2024 21:47:40.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:40.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:41.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:42.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 21:47:43.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
